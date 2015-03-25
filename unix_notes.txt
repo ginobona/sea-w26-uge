@@ -1,0 +1,8 @@
+ls: lists files
+ls -l: prints long form of file list
+ls -s: shows all files, including hidden files
+cd: change directory
+pwd: print working directory
+mkdir: make directory
+su): super user
+

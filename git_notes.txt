@@ -1,0 +1,12 @@
+git init: create a new local repository
+git branch: list all existing branches
+git checkout <branch>: switch head branch
+git status: change files in working directory
+git diff: changes to tracked files
+git add: add all current changes to the next commit
+git add -p <file>: add some changes in <file> to the next commit
+git commit: commits all added files to the repository
+git commit -a: commits all changes to all tracked files
+git commit -m: allows you to specify a commit message directly on the command line instead of default folder
+git config: allows you to make configuration changes to Git
+
